@@ -1,0 +1,13 @@
+name=NexNova
+
+type=exe
+
+output=NexNova.exe
+
+source=.
+
+compiler=gcc
+
+flags=-Wall
+
+entry=main.c
